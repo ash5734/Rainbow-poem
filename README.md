@@ -1,10 +1,12 @@
 # Rainbow-poem
-This is a poem about rainbows
+The Rainbow and the Unicorn
 
 Red
 Orange
 Yellow
 Green
+Unicorn
 Blue
 Purple
 These are the colors of the rainbow. 
+and the unicorn. 
