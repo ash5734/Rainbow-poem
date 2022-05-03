@@ -1,5 +1,5 @@
 # Rainbow-poem
-The Rainbow and the Unicorn
+The Rainbow and the Unicorn and the Pony
 
 Red
 Orange
@@ -10,3 +10,4 @@ Blue
 Purple
 These are the colors of the rainbow. 
 and the unicorn. 
+Pony
